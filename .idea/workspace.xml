@@ -1,11 +1,547 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee8930a0-1851-4a51-9dcd-6770fb95a3e9" name="Changes" comment="" />
+    <list default="true" id="ee8930a0-1851-4a51-9dcd-6770fb95a3e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SteamWar.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 1/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 1/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 1/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 1/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 1/orig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 1/origbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 2/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 2/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 2/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 2/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 2/orig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 2/origbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 3/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 3/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 3/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 3/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 3/orig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 3/origbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/orig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/background 4/origbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/psd/1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/psd/2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/psd/3.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background/psd/4.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Normal_flight/Ship1_normal_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Normal_flight/Ship1_normal_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Normal_flight/Ship1_normal_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Normal_flight/Ship1_normal_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Turbo_flight/Ship1_turbol_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Turbo_flight/Ship1_turbol_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Turbo_flight/Ship1_turbol_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship1/Turbo_flight/Ship1_turbol_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Normal_flight/Ship2_normal_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Normal_flight/Ship2_normal_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Normal_flight/Ship2_normal_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Normal_flight/Ship2_normal_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Turbo_flight/Ship2_turbo_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Turbo_flight/Ship2_turbo_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Turbo_flight/Ship2_turbo_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship2/Turbo_flight/Ship2_turbo_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Normal_flight/Ship3_normal_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Normal_flight/Ship3_normal_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Normal_flight/Ship3_normal_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Normal_flight/Ship3_normal_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Turbo_flight/Ship3_turbo_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Turbo_flight/Ship3_turbo_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Turbo_flight/Ship3_turbo_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship3/Turbo_flight/Ship3_turbo_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Normal_flight/Ship4_normal_fligjt_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Normal_flight/Ship4_normal_fligjt_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Normal_flight/Ship4_normal_fligjt_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Normal_flight/Ship4_normal_fligjt_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Turbo_flight/Ship4_turbo_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Turbo_flight/Ship4_turbo_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Turbo_flight/Ship4_turbo_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship4/Turbo_flight/Ship4_turbo_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Normal_flight/Ship5_normal_flight_002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Normal_flight/Ship5_normal_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Normal_flight/Ship5_normal_flight_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Normal_flight/Ship5_normal_flight_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Turbo_flight/Ship5_turbo_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Turbo_flight/Ship5_turbo_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Turbo_flight/Ship5_turbo_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship5/Turbo_flight/Ship5_turbo_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Normal_flight/Ship6_normal_flight_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Normal_flight/Ship6_normal_flight_002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Normal_flight/Ship6_normal_flight_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Normal_flight/Ship6_normal_flight_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Turbo_flight/Ship6_turbo_flight_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Turbo_flight/Ship6_turbo_flight_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Turbo_flight/Ship6_turbo_flight_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Exhaust/Ship6/Turbo_flight/Ship6_turbo_flight_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship1_Explosion/Ship1_Explosion_020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship2_Explosion/Ship2_Explosion_021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship3_Explosion/Ship3_Explosion_021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship4_Explosion/Ship4_Explosion_020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship5_Explosion/Ship5_Explosion_020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Explosions/Ship6_Explosion/Ship6_Explosion_021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_exp0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot1/shot1_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot2/shot2_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot3/shot3_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot4/shot4_exp8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot5/shot5_exp8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Animations/Shots/Shot6/shot6_exp9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions.scml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion1/Explosion1_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion2/Explosion2_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Explosions/Explosion3/Explosion3_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Flight+Ships.scml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Flight.scml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Normal_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Exhaust/Turbo_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Parts/ship1_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Parts/ship1_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Parts/ship1_nose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Parts/ship1_turbine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship1/Ship1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Normal_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Exhaust/Turbo_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Parts/ship2_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Parts/ship2_body2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Parts/ship2_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Parts/ship2_detail2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Parts/ship2_detail2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Parts/ship2_turbines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship2/Ship2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Normal_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Exhaust/Turbo_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Parts/ship3_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Parts/ship3_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Parts/ship3_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Parts/ship3_head2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Parts/ship3_tail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Parts/ship3_turbine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship3/Ship3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Normal_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Exhaust/Turbo_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Parts/ship4_body1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Parts/ship4_body2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Parts/ship4_body_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Parts/ship4_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Parts/ship4_tail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Parts/ship4_tubes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Parts/ship4_windows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship4/Ship4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust1/exhaust04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Normal_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Exhaust/Turbo_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Parts/ship5_body1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Parts/ship5_body2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Parts/ship5_body3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Parts/ship5_top_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Parts/ship5_tube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Parts/ship5_window.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship5/Ship5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Normal_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust1/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust1/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust1/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust1/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust2/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust2/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust2/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust2/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust3/exhaust1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust3/exhaust2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust3/exhaust3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Exhaust/Turbo_flight/Exhaust3/exhaust4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_body1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_body2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_body3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_circle_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_deail1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_detail2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_detail3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_detail4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_detail5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_turbines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_wing_detail1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Parts/ship6_wing_detail2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Ship6/Ship6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots.scml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_exp0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot1/shot1_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot2/shot2_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot3/shot3_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot4/shot4_exp8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot5/shot5_exp8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PNG_Parts&amp;Spriter_Animation/Shots/Shot6/shot6_exp9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Enemie_spaceships3.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Exhaust_Ship1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Exhaust_Ship2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Exhaust_Ship3.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Exhaust_Ship4.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Exhaust_Ship5.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Exhaust_Ship6.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Explosions.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/PSD/Shots.psd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -22,6 +558,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,7 +577,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773112252550</updated>
-      <workItem from="1773112253544" duration="5000" />
+      <workItem from="1773112253544" duration="228000" />
     </task>
     <servers />
   </component>
