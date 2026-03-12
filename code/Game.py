@@ -1,23 +1,27 @@
 import pygame
 import self
 
+from code.Const import WIN_HEIGHT, WIN_WIDTH
 from code.Menu import Menu
 
 
-class Game():
+class Game:
     def __init__(self):
         pygame.init()
-        window = pygame.display.set_mode(size=(800, 600))
+        self.window = pygame.display.set_mode(size=(WIN_WIDTH, WIN_HEIGHT))
 
     def run(self):
 
         print("Setup Start") #Delete for Launch
 
-    while True:
-        # Events check
-        menu = Menu(self.window)
-        menu.run()
-        pass
+        pygame.mixer_music.load('./assets/audio/MenuST.mp3')
+        pygame.mixer_music.play(-1)
+
+        while True: # Events Check
+            menu = Menu(self.window)
+            menu.run()
+            pass
+
 
 
 

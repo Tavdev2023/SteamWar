@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8930a0-1851-4a51-9dcd-6770fb95a3e9" name="Changes" comment="Main loop added &#10;Connecting Menu and Game classes">
+      <change afterPath="$PROJECT_DIR$/assets/audio/842609__ui-hater2012__menuclick.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/MenuST.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +61,17 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/Desktop/Projetos/ArenaCore/SteamWar.py/assets/audio",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive\Desktop\Projetos\ArenaCore\SteamWar.py\assets\audio" />
+      <recent name="C:\Users\USER\OneDrive\Desktop\Projetos\ArenaCore\SteamWar.py\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive\Desktop\Projetos\ArenaCore\SteamWar.py\assets\audio" />
       <recent name="C:\Users\USER\OneDrive\Desktop\Projetos\ArenaCore\SteamWar.py\game" />
     </key>
   </component>
@@ -80,7 +92,8 @@
       <updated>1773112252550</updated>
       <workItem from="1773112253544" duration="818000" />
       <workItem from="1773141489254" duration="3801000" />
-      <workItem from="1773164274793" duration="3898000" />
+      <workItem from="1773164274793" duration="3989000" />
+      <workItem from="1773328703767" duration="5810000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -114,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773167237319</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Main loop added &#10;Connecting Menu and Game classes">
+      <option name="closed" value="true" />
+      <created>1773168205331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773168205331</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,8 +160,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Main loop added &#10;Connecting Menu and Game classes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SteamWar_py$main.coverage" NAME="main Coverage Results" MODIFIED="1773167751222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SteamWar_py$Game.coverage" NAME="Game Coverage Results" MODIFIED="1773167670027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/SteamWar_py$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1773165236577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/SteamWar_py$main.coverage" NAME="main Coverage Results" MODIFIED="1773339761403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SteamWar_py$Game.coverage" NAME="Game Coverage Results" MODIFIED="1773336440306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/SteamWar_py$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1773338969547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
   </component>
 </project>

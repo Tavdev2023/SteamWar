@@ -11,24 +11,21 @@ from code.Const import WIN_WIDTH, C_ORANGE, MENU_OPTION, C_WHITE, C_YELLOW
 class Menu:
     def __init__(self, window):
         self.window = window
-        self.surf = pygame.image.load('./asset/MenuBg.png').convert_alpha()
+        self.surf = pygame.image.load('assets/background/background 1/orig.png').convert_alpha()
         self.rect = self.surf.get_rect(left=0, top=0)
 
     def run(self):
         menu_option = 0
-        pygame.mixer_music.load('./asset/Menu.mp3')
+        pygame.mixer_music.load('./assets/audio/MenuST.mp3')
         pygame.mixer_music.play(-1)
         while True:
             # DRAW IMAGES
             self.window.blit(source=self.surf, dest=self.rect)
-            self.menu_text(50, "Steam", C_ORANGE, ((WIN_WIDTH / 2), 70))
-            self.menu_text(50, "War", C_ORANGE, ((WIN_WIDTH / 2), 120))
+            self.menu_text(60, "Steam War", C_WHITE, ((WIN_WIDTH / 2), 40))
 
             for i in range(len(MENU_OPTION)):
-                if i == menu_option:
-                    self.menu_text(20, MENU_OPTION[i], C_YELLOW, ((WIN_WIDTH / 2), 200 + 25 * i))
-                else:
-                    self.menu_text(20, MENU_OPTION[i], C_WHITE, ((WIN_WIDTH / 2), 200 + 25 * i))
+                    self.menu_text(20, MENU_OPTION[i], C_YELLOW, ((WIN_WIDTH / 2), 150 + 25 * i))
+
             pygame.display.flip()
 
             # Check for all events
