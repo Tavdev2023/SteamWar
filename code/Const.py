@@ -6,7 +6,7 @@ C_YELLOW = (255,255,0)
 # M
 MENU_OPTION = ('NEW GAME SINGLEPLAYER',
                'MULTIPLAYER COOP',
-               'MULTIPLAYER FIGHT',
+               'MULTIPLAYER VERSUS',
                'SCORES',
                'EXIT')
 
